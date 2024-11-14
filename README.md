@@ -42,8 +42,9 @@ begin
 a_out=b_in;
 end
 endmodule
-![Screenshot 2024-10-05 153614](https://github.com/user-attachments/assets/2cb63846-8556-4a8d-8cac-de2d4a1753e9)
 
+
+![Screenshot 2024-10-05 153614](https://github.com/user-attachments/assets/2cb63846-8556-4a8d-8cac-de2d4a1753e9)
 
 
 Testbench for Swapping Three Numbers:
